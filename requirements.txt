@@ -1,0 +1,19 @@
+wheel==0.45.0
+setuptools==75.3.0
+
+# Kafka
+
+kafka-python @ git+https://github.com/dpkp/kafka-python.git
+requests==2.28.1
+
+# Spark và xử lý dữ liệu
+pyspark==3.5.0
+findspark==2.0.1
+
+# Database
+sqlalchemy==2.0.0
+psycopg2-binary==2.9.9
+pandas==1.5.3
+
+# Utils
+python-dateutil==2.8.2
